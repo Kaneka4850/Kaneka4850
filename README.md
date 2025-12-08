@@ -6,7 +6,7 @@
   <h3>Ênfase em análise de variantes somáticas e germinativas</h3>
 
   <p>
-    🏥 Atualmente no <b>Hospital Israelita Albert Einstein</b>
+    🏥 Pós-graduando em Bioinformática no Hospital Israelita Albert Einstein</b>
   </p>
 
   <p>

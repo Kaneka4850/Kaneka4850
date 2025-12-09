@@ -1,12 +1,17 @@
 <div align="center">
 
-  <h1>Olá! Me chamo Cleber! 👋</h1>
+  <br/><br/>
+
+  <h1>Olá! Me chamo Cleber Augusto 👋</h1>
   
-  <h2>🧬 Biomédico Especialista em Bioinformática</h2>
-  <h3>Ênfase em análise de variantes somáticas e germinativas</h3>
+  <h2>🧬 Biomédico | Bioinformata</h2>
+  
+  <p>
+      Focado em <b>Análise de Variantes (Somaticas & Germinativas)</b> e <b>Medicina de Precisão</b>
+  </p>
 
   <p>
-    🏥 Pós-graduando em Bioinformática no Hospital Israelita Albert Einstein</b>
+    🎓 Pós-graduando em Bioinformática no <b>Hospital Israelita Albert Einstein</b>
   </p>
 
   <p>
@@ -16,27 +21,25 @@
     <a href="https://www.linkedin.com/in/cleberaugustobioinfo">
       <img src="https://img.shields.io/badge/LinkedIn-Cleber%20Augusto-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://discord.com/users/443894774156623884">
+      <img src="https://img.shields.io/badge/Discord-Kaneka_OFC-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+    </a>
   </p>
   
   <br/>
 
-  <h3>🤖 Linguagens e Tecnologias</h3>
-
-  <p>
-    <img alt="Git" title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt="Python" title="Python" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img alt="R" title="R" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-    <img alt="Linux" title="Linux" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img alt="Bash" title="Bash" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  </p>
+  <h3> Minhas Skills</h3>
   
-  <br/>
-
-  <h3>📊 Estatísticas do GitHub</h3>
+  <div style="display: inline_block">
+    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+    <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  </div>
   
-  <p align="center">
-    <img alt="Cleber GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Kaneka4850&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img alt="Cleber Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneka4850&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" />
-  </p>
+  <br/><br/>
 
 </div>

@@ -2,9 +2,9 @@
 
   <br/><br/>
 
-  <h1>Olá! Me chamo Cleber Augusto 👋</h1>
+  <h1>Olá! Me chamo Cleber Augusto </h1>
   
-  <h2>🧬 Biomédico | Bioinformata</h2>
+  <h2> Biomédico | Bioinformata</h2>
   
   <p>
       Focado em <b>Análise de Variantes (Somaticas & Germinativas)</b> e <b>Medicina de Precisão</b>

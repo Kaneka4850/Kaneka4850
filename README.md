@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    🎓 Pós-graduando em Bioinformática no <b>Hospital Israelita Albert Einstein</b>
+    🎓 Pós-graduado em Bioinformática no <b>Hospital Israelita Albert Einstein</b>
   </p>
 
   <p>

@@ -1,45 +1,71 @@
 <div align="center">
 
-  <br/><br/>
+<h1>Olá! Me chamo Cleber Augusto 👋</h1>
+<h3>Biomédico | Bioinformata</h3>
 
-  <h1>Olá! Me chamo Cleber Augusto </h1>
+<p>
+Focado em <b>Analise de Variantes Somáticas e Germinativas</b>
+</p>
+
+<a href="mailto:kaneka4850@gmail.com">
+  <img src="https://img.shields.io/badge/Kaneka4850@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/cleberaugustobioinfo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/443894774156623884">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+<hr>
+
+<h2>🚀 Sobre Mim</h2>
+
+<pre>
+cleber = {
+    "formacao": "Biomedicina",
+    "especializacao": "Bioinformática (Hospital Israelita Albert Einstein)",
+    "foco_atual": [
+        "Análise de Variantes (Somáticas & Germinativas)",
+        "Medicina de Precisão",
+        "Pipelines de NGS"
+    ],
+    "linguagens": ["Python", "Bash", "R", "SQL"],
+    "ferramentas": ["Docker", "AWS", "Git", "Linux"],
+    "funFact": "Amo animes e monster"
+}
+</pre>
+
+<hr>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+</div>
+
+<br><br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
   
-  <h2> Biomédico | Bioinformata</h2>
-  
-  <p>
-      Focado em <b>Análise de Variantes (Somaticas & Germinativas)</b> e <b>Medicina de Precisão</b>
-  </p>
-
-  <p>
-    🎓 Pós-graduado em Bioinformática no <b>Hospital Israelita Albert Einstein</b>
-  </p>
-
-  <p>
-    <a href="mailto:kaneka4850@gmail.com">
-      <img src="https://img.shields.io/badge/Email-kaneka4850%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/cleberaugustobioinfo">
-      <img src="https://img.shields.io/badge/LinkedIn-Cleber%20Augusto-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://discord.com/users/443894774156623884">
-      <img src="https://img.shields.io/badge/Discord-Kaneka_OFC-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-  </p>
+  <a href="https://github.com/Kaneka4850">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaneka4850&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" />
+  </a>
   
   <br/>
 
-  <h3> Minhas Skills</h3>
-  
-  <div style="display: inline_block">
-    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  </div>
-  
-  <br/><br/>
+  <a href="https://github.com/Kaneka4850">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaneka4850&bg_color=0D1117&color=70a5fd&line=5865F2&point=f0f6fc&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 
 </div>

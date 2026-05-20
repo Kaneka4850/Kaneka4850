@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>Olá! Me chamo Cleber Augusto 👋</h1>
-<h3>Biomédico | Bioinformata</h3>
+<h1>Olá! Me chamo Cleber Augusto </h1>
+<h3>Analista de Bioinformática Genômica | Cientista de Dados em Genômica Clínica</h3>
 
 <p>
-Focado em <b>Analise de Variantes Somáticas e Germinativas</b>
+Focado em <b>Análise de Variantes (Somáticas, Germinativas e Estruturais)</b> e Arquitetura de Pipelines NGS.
 </p>
 
 <a href="mailto:kaneka4850@gmail.com">
@@ -21,38 +21,61 @@ Focado em <b>Analise de Variantes Somáticas e Germinativas</b>
 
 <hr>
 
-<h2>🚀 Sobre Mim</h2>
+<h2> Sobre Mim</h2>
 
 <pre>
 cleber = {
-    "formacao": "Biomedicina",
-    "especializacao": "Bioinformática (Hospital Israelita Albert Einstein)",
+    "formacao": "Biomédico habilitado em Bioinformática Clínica",
+    "especializacao": "Bioinformática Aplicada à Genômica Médica (Hospital Israelita Albert Einstein)",
     "foco_atual": [
-        "Análise de Variantes (Somáticas & Germinativas)",
-        "Medicina de Precisão",
-        "Pipelines de NGS"
+        "Desenvolvimento de Pipelines NGS (Snakemake & Bash)",
+        "Engenharia de Dados Genômicos com Integração de IA",
+        "Mestrado em Bioinformática em Câncer (USP/IDOR)"
     ],
-    "linguagens": ["Python", "Bash", "R", "SQL"],
-    "ferramentas": ["Docker", "AWS", "Git", "Linux"],
-    "funFact": "Amo animes e monster"
+    "stack_principal": ["Python", "Bash", "Snakemake", "SQL"],
+    "bioinfo_tools": ["GATK", "VEP", "BWA", "Samtools", "Bedtools", "IGV"],
+    "infraestrutura": ["AWS (Certified Cloud Practitioner)", "Docker", "Linux"],
+    "funFact": "Amo animes, levemente viciado em energético"
 }
 </pre>
 
 <hr>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ My Skills</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+  <h3>Linguagens & DevOps</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snakemake-008080?style=for-the-badge&logo=snakemake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <br>
+  
+  <h3>Ferramentas de bioinformatica que sei usar</h3>
+  <img src="https://img.shields.io/badge/GATK-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BWA-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VEP-673AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Samtools-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bedtools-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IGV-E91E63?style=for-the-badge" />
 </div>
 
 <br><br>
+
+<h2 align="center">Projetos & Atuação Recente</h2>
+
+<ul>
+  <li><b>Arquitetura de Software & Automação:</b> Desenvolvedor Principal do projeto <i>Tiro Legal</i>, atuando de forma autônoma na criação de soluções de software e gerenciamento de servidores.</li>
+  <li><b>Engenharia de Dados com IA:</b> Implementação de pipeline automatizado em Python consumindo a API do Gemini 2.5 Flash, orquestrando a extração e estruturação analítica de mais de 2.000 imagens clínicas.</li>
+  <li><b>Classificação de variantes:</b> Classificação pelos critérios ACMG (Germinativos) e VICC (Somáticos) </li>
+  
+</ul>
+
+<hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 

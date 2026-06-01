@@ -128,12 +128,7 @@ cleber = {
 
 <div align="center">
 
-<a href="https://github.com/Kaneka4850">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kaneka4850&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=1D9E75&title_color=1D9E75" />
-</a>
-<a href="https://github.com/Kaneka4850">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneka4850&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75" />
-</a>
+
 
 <br/>
 

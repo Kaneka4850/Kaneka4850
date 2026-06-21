@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=user%40kaneka850%3A~%24+whoami;Bioinformata+Clinico+%7C+Analise+de+Variantes+NGS;Carregando+stack...+Python+%7C+GATK+%7C+VEP+%7C+FastAPI;Pronto+para+deploy+%E2%9C%94" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=user%40kaneka4850%3A~%24+whoami;Bioinformata+Clinico+%7C+Analise+de+Variantes+NGS;Loading+stacks...+Python+%7C+GATK+%7C+VEP+%7C+FastAPI;Ready+for+deploy+%E2%9C%94" alt="Typing SVG" />
 
 <br><br>
 
@@ -25,7 +25,7 @@
 ## `$ whoami`
 
 ```bash
-user@kaneka850:~$ cat profile.json
+user@kaneka4850:~$ cat profile.json
 {
   "role"     : "Bioinformata Clinico | Analista de Variantes Geneticas",
   "stack"    : ["Python", "Bash", "Snakemake", "SQL"],
@@ -41,30 +41,30 @@ user@kaneka850:~$ cat profile.json
   "proximo"  : "Mestrado em Bioinformatica em Cancer (USP / IDOR)",
   "fun_fact" : "Amo animes · Levemente viciado em energetico ⚡"
 }
-user@kaneka850:~$ _
+user@kaneka4850:~$ _
 ```
 
 ---
 
-## 🧬 `$ ls stack/`
+## `$ ls stack/`
 
 <div align="center">
 
-**Linguagens & DevOps**
+**Linguagens & Ferramantas**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 ![Snakemake](https://img.shields.io/badge/Snakemake-000000?style=for-the-badge&logoColor=39FF14)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4479A1)
 
-**Infraestrutura**
+**Infra**
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
-**Ferramentas de Bioinformática**
+**Bioinformatics Tools**
 
 ![GATK](https://img.shields.io/badge/GATK-000000?style=for-the-badge&logoColor=39FF14)
 ![BWA](https://img.shields.io/badge/BWA-000000?style=for-the-badge&logoColor=39FF14)
@@ -72,9 +72,6 @@ user@kaneka850:~$ _
 ![Samtools](https://img.shields.io/badge/Samtools-000000?style=for-the-badge&logoColor=39FF14)
 ![Bedtools](https://img.shields.io/badge/Bedtools-000000?style=for-the-badge&logoColor=39FF14)
 ![IGV](https://img.shields.io/badge/IGV-000000?style=for-the-badge&logoColor=39FF14)
-
-**Formatos & Bancos de Dados**
-
 ![VCF](https://img.shields.io/badge/VCF-000000?style=for-the-badge&logoColor=39FF14)
 ![BAM](https://img.shields.io/badge/BAM-000000?style=for-the-badge&logoColor=39FF14)
 ![FASTQ](https://img.shields.io/badge/FASTQ-000000?style=for-the-badge&logoColor=39FF14)
@@ -85,7 +82,7 @@ user@kaneka850:~$ _
 
 ---
 
-## 💼 `$ cat experience.log`
+## `$ cat experience.log`
 
 | Período | Cargo | Empresa | Destaque |
 |---|---|---|---|
@@ -95,25 +92,25 @@ user@kaneka850:~$ _
 
 ---
 
-## 🎓 `$ cat formacao.txt`
+## `$ cat formacao.txt`
 
 ```bash
-user@kaneka850:~$ cat formacao.txt
-📌  Pós-graduação Lato Sensu
+user@kaneka4850:~$ cat formacao.txt
+    Pós-graduação Lato Sensu
     Bioinformática Aplicada à Genômica Médica — Análise de Variantes Somáticas e Germinativas
     Hospital Israelita Albert Einstein  ·  Conclusão: Fevereiro 2026
 
-📌  Bacharelado em Biomedicina
+    Bacharelado em Biomedicina
     Universidade Paulista — UNIP  ·  Conclusão: Janeiro 2025
     Foco: Genética, Citogenética e Análises Clínicas
-user@kaneka850:~$ _
+user@kaneka4850:~$ _
 ```
 
 ---
 
-## 🚀 `$ ls projetos/`
+## `$ ls projetos/`
 
-### 🔬 Analisador de Documentos Clínicos
+### Analisador de Documentos Clínicos
 > Pipeline de extração de dados estruturados a partir de ~2.000 imagens de avaliações psicológicas usando Google Gemini API + Pydantic + Docker.
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositório-000000?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/Kaneka4850/Analisador-de-documentos)
@@ -123,7 +120,7 @@ user@kaneka850:~$ _
 
 ---
 
-## 📜 `$ ls -la certifications/`
+## `$ ls -la certifications/`
 
 ```bash
 user@kaneka850:~$ ls -la certifications/
@@ -137,7 +134,7 @@ user@kaneka850:~$ _
 
 ---
 
-## 📊 `$ git log --stat`
+## `$ git log --stat`
 
 <div align="center">
 
@@ -161,17 +158,10 @@ user@kaneka850:~$ _
 
 `# "A genomica so faz sentido quando o codigo funciona tao bem quanto o sequenciador."`
 
-`user@kaneka850:~$ exit`
+`user@kaneka4850:~$ exit`
 `logout`
-`Connection to kaneka850 closed.`
+`Connection to kaneka4850 closed.`
 
 </div>
 
-```
-cleber@bioinfo:~$ exit
-logout
-Connection to github.com closed.
-```
-
-</div>
 

@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/-kaneka4850@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:kaneka4850@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/cleberaugustobioinfo)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=39FF14)](https://discord.com/users/443894774156623884)
+[![Discord](https://img.shields.io/badge/-Kaneka_ofc-000000?style=for-the-badge&logo=discord&logoColor=39FF14)](https://discord.com/users/443894774156623884)
 [![GitHub](https://img.shields.io/badge/-Kaneka4850-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Kaneka4850)
 
 <br>
@@ -30,15 +30,15 @@ user@kaneka4850:~$ cat profile.json
   "role"     : "Bioinformata Clinico | Analista de Variantes Geneticas",
   "stack"    : ["Python", "Bash", "Snakemake", "SQL"],
   "biotools" : ["GATK", "VEP", "BWA", "Samtools", "Bedtools", "IGV"],
-  "infra"    : ["AWS (EC2 · S3)", "Docker", "Linux (Ubuntu/Debian)"],
+  "infra"    : ["AWS", "Docker", "Linux (Ubuntu/Debian)"],
   "foco"     : [
       "Analise de variantes somaticas, germinativas e estruturais",
       "Classificacao ACMG (germinativas) e VICC (somaticas)",
       "Arquitetura de pipelines NGS de alto desempenho",
       "Engenharia de dados genomicos com integracao de IA"
   ],
+  "formação: Bacharel em biomedicina - UNIP (2024)",
   "formacao" : "Bioinformatica Aplicada a Genomica Medica — Einstein (2026)",
-  "proximo"  : "Mestrado em Bioinformatica em Cancer (USP / IDOR)",
   "fun_fact" : "Amo animes · Levemente viciado em energetico ⚡"
 }
 user@kaneka4850:~$ _

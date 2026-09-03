@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=Cleber%20Augusto&fontSize=34&fontColor=39FF14&desc=Bioinformata%20Cl%C3%ADnico%20%C2%B7%20An%C3%A1lise%20de%20Variantes%20NGS&descAlignY=80&descSize=14&descColor=00FF00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=Cleber%20Augusto&fontSize=34&fontColor=00BFFF&desc=Bioinformata%20Cl%C3%ADnico%20%C2%B7%20Analista%20de%20Variantes&descAlignY=80&descSize=14&descColor=00BFFF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2500&pause=900&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=user%40kaneka4850%3A~%24+whoami;Bioinformata+Clinico+%7C+Analise+de+Variantes+NGS;Loading+stacks...+Python+%7C+GATK+%7C+VEP+%7C+FastAPI;Ready+for+deploy+%E2%9C%94" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2500&pause=900&color=00BFFF&background=000000&center=true&vCenter=true&width=650&lines=user%40kaneka4850%3A~%24+whoami;Bioinformata+Clinico+%7C+Analista+de+Variantes;Loading+stacks...+Python+%7C+GATK+%7C+VEP+%7C+FastAPI;Ready+for+deploy+%E2%9C%94" alt="Typing SVG" />
 
 <br><br>
 
-[![Gmail](https://img.shields.io/badge/-kaneka4850@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:kaneka4850@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/cleberaugustobioinfo)
-[![Discord](https://img.shields.io/badge/-Kaneka_ofc-000000?style=for-the-badge&logo=discord&logoColor=39FF14)](https://discord.com/users/443894774156623884)
-[![GitHub](https://img.shields.io/badge/-Kaneka4850-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Kaneka4850)
+[![Gmail](https://img.shields.io/badge/-kaneka4850@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:kaneka4850@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/cleberaugustobioinfo)
+[![Discord](https://img.shields.io/badge/-Kaneka_ofc-000000?style=for-the-badge&logo=discord&logoColor=00BFFF)](https://discord.com/users/443894774156623884)
+[![GitHub](https://img.shields.io/badge/-Kaneka4850-000000?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Kaneka4850)
 
 <br>
 
@@ -54,7 +54,7 @@ user@kaneka4850:~$ _
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![Snakemake](https://img.shields.io/badge/Snakemake-000000?style=for-the-badge&logoColor=39FF14)
+![Snakemake](https://img.shields.io/badge/Snakemake-000000?style=for-the-badge&logoColor=00BFFF)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4479A1)
 
 **Infra**
@@ -66,17 +66,17 @@ user@kaneka4850:~$ _
 
 **Bioinformatics Tools**
 
-![GATK](https://img.shields.io/badge/GATK-000000?style=for-the-badge&logoColor=39FF14)
-![BWA](https://img.shields.io/badge/BWA-000000?style=for-the-badge&logoColor=39FF14)
-![VEP](https://img.shields.io/badge/VEP-000000?style=for-the-badge&logoColor=39FF14)
-![Samtools](https://img.shields.io/badge/Samtools-000000?style=for-the-badge&logoColor=39FF14)
-![Bedtools](https://img.shields.io/badge/Bedtools-000000?style=for-the-badge&logoColor=39FF14)
-![IGV](https://img.shields.io/badge/IGV-000000?style=for-the-badge&logoColor=39FF14)
-![VCF](https://img.shields.io/badge/VCF-000000?style=for-the-badge&logoColor=39FF14)
-![BAM](https://img.shields.io/badge/BAM-000000?style=for-the-badge&logoColor=39FF14)
-![FASTQ](https://img.shields.io/badge/FASTQ-000000?style=for-the-badge&logoColor=39FF14)
-![gnomAD](https://img.shields.io/badge/gnomAD-000000?style=for-the-badge&logoColor=39FF14)
-![1000G](https://img.shields.io/badge/1000%20Genomes-000000?style=for-the-badge&logoColor=39FF14)
+![GATK](https://img.shields.io/badge/GATK-000000?style=for-the-badge&logoColor=00BFFF)
+![BWA](https://img.shields.io/badge/BWA-000000?style=for-the-badge&logoColor=00BFFF)
+![VEP](https://img.shields.io/badge/VEP-000000?style=for-the-badge&logoColor=00BFFF)
+![Samtools](https://img.shields.io/badge/Samtools-000000?style=for-the-badge&logoColor=00BFFF)
+![Bedtools](https://img.shields.io/badge/Bedtools-000000?style=for-the-badge&logoColor=00BFFF)
+![IGV](https://img.shields.io/badge/IGV-000000?style=for-the-badge&logoColor=00BFFF)
+![VCF](https://img.shields.io/badge/VCF-000000?style=for-the-badge&logoColor=00BFFF)
+![BAM](https://img.shields.io/badge/BAM-000000?style=for-the-badge&logoColor=00BFFF)
+![FASTQ](https://img.shields.io/badge/FASTQ-000000?style=for-the-badge&logoColor=00BFFF)
+![gnomAD](https://img.shields.io/badge/gnomAD-000000?style=for-the-badge&logoColor=00BFFF)
+![1000G](https://img.shields.io/badge/1000%20Genomes-000000?style=for-the-badge&logoColor=00BFFF)
 
 </div>
 
@@ -113,7 +113,7 @@ user@kaneka4850:~$ _
 ### Analisador de Documentos Clínicos
 > Pipeline de extração de dados estruturados a partir de ~2.000 imagens de avaliações psicológicas usando Google Gemini API + Pydantic + Docker.
 
-[![Repo](https://img.shields.io/badge/Ver%20Repositório-000000?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/Kaneka4850/Analisador-de-documentos)
+[![Repo](https://img.shields.io/badge/Ver%20Repositório-000000?style=flat-square&logo=github&logoColor=00BFFF)](https://github.com/Kaneka4850/Analisador-de-documentos)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-000000?style=flat-square&logo=google&logoColor=4285F4)
@@ -139,13 +139,13 @@ user@kaneka850:~$ _
 <div align="center">
 
 <a href="https://github.com/Kaneka4850">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaneka4850&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=8B8B8B&stroke=39FF14" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaneka4850&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B8B8B&stroke=00BFFF" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Kaneka4850">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaneka4850&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaneka4850&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </a>
 
 </div>
@@ -163,5 +163,4 @@ user@kaneka850:~$ _
 `Connection to kaneka4850 closed.`
 
 </div>
-
 

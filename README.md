@@ -51,7 +51,7 @@ infra/         Linux (Ubuntu/Debian)  Docker  AWS  Git
 
 | Período | Cargo | Empresa | O que eu fiz |
 |---|---|---|---|
-| Set 2026 -  Atual   | Analista de bioinformatica | **Ollin** |
+| Set 2026 -  Atual   | Analista de bioinformatica | **Ollin** | Confidencial |
 | Mar 2026 - Set 2026 | Desenvolvedor Principal | **Tiro Legal** | Pipeline de extração de dados estruturados com Python, Pydantic e Gemini 2.5 Flash. Mais de 2.000 imagens clínicas processadas. |
 | Fev 2025 - Mar 2026 | Assistente de Dados | **G16 Premium** | Automação de rotinas em Python e construção de dashboards. Redução de 15% no tempo operacional. |
 | Fev 2024 - Dez 2024 | Estagiário em Análises Clínicas | Laboratório de Ensino | Mais de 500 amostras processadas em Bioquímica, Hematologia e Microbiologia. |
@@ -112,8 +112,6 @@ Trissomia_Livre_Citogenetica.cert
 
 ```text
 # 継続は力なり
-
-
 cleber@kaneka4850:~$ exit
 logout
 Connection to kaneka4850 closed.

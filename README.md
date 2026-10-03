@@ -13,7 +13,7 @@
 
 ---
 
-## `$ cat sobre.json`  <sub>自己紹介 · jikoshōkai</sub>
+## `$ cat sobre.json`  <sub>自己紹介</sub>
 
 ```json
 {
@@ -35,7 +35,7 @@
 
 ---
 
-## `$ ls stack/`  <sub>技術 · gijutsu</sub>
+## `$ ls stack/`  <sub>技術</sub>
 
 ```bash
 linguagens/    Python  Bash  SQL  Snakemake
@@ -47,17 +47,18 @@ infra/         Linux (Ubuntu/Debian)  Docker  AWS  Git
 
 ---
 
-## `$ cat experience.log`  <sub>経歴 · keireki</sub>
+## `$ cat experience.log`  <sub>経歴</sub>
 
 | Período | Cargo | Empresa | O que eu fiz |
 |---|---|---|---|
-| Mar 2026 - atual | Desenvolvedor Principal | **Tiro Legal** | Pipeline de extração de dados estruturados com Python, Pydantic e Gemini 2.5 Flash. Mais de 2.000 imagens clínicas processadas. |
+| Set 2026 -  Atual   | Analista de bioinformatica | **Ollin** |
+| Mar 2026 - Set 2026 | Desenvolvedor Principal | **Tiro Legal** | Pipeline de extração de dados estruturados com Python, Pydantic e Gemini 2.5 Flash. Mais de 2.000 imagens clínicas processadas. |
 | Fev 2025 - Mar 2026 | Assistente de Dados | **G16 Premium** | Automação de rotinas em Python e construção de dashboards. Redução de 15% no tempo operacional. |
 | Fev 2024 - Dez 2024 | Estagiário em Análises Clínicas | Laboratório de Ensino | Mais de 500 amostras processadas em Bioquímica, Hematologia e Microbiologia. |
 
 ---
 
-## `$ cat formacao.txt`  <sub>学歴 · gakureki</sub>
+## `$ cat formacao.txt`  <sub>学歴 </sub>
 
 ```text
 Pós-graduação Lato Sensu
@@ -71,7 +72,7 @@ Foco: Genética, Citogenética e Análises Clínicas
 
 ---
 
-## `$ ls projetos/`  <sub>プロジェクト · purojekuto</sub>
+## `$ ls projetos/`  <sub>プロジェクト</sub>
 
 ### Analisador de Documentos Clínicos
 
@@ -83,7 +84,7 @@ Pipeline de extração de dados estruturados a partir de cerca de 2.000 imagens 
 
 ---
 
-## `$ ls certificacoes/`  <sub>資格 · shikaku</sub>
+## `$ ls certificacoes/`  <sub>資格</sub>
 
 ```bash
 AWS_Cloud_Practitioner.cert
@@ -95,7 +96,7 @@ Trissomia_Livre_Citogenetica.cert
 
 ---
 
-## `$ git log --stat`  <sub>活動 · katsudō</sub>
+## `$ git log --stat`  <sub>活動</sub>
 
 <div align="center">
 
@@ -111,7 +112,7 @@ Trissomia_Livre_Citogenetica.cert
 
 ```text
 # 継続は力なり
-# keizoku wa chikara nari  (persistência é poder)
+
 
 cleber@kaneka4850:~$ exit
 logout

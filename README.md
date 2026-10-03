@@ -1,151 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=Cleber%20Augusto&fontSize=34&fontColor=00BFFF&desc=Bioinformata%20Cl%C3%ADnico%20%C2%B7%20Analista%20de%20Variantes&descAlignY=80&descSize=14&descColor=00BFFF" width="100%"/>
+<img src="assets/header.svg" alt="Cleber Augusto, Bioinformata Clínico e Analista de Variantes" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2500&pause=900&color=00BFFF&background=000000&center=true&vCenter=true&width=650&lines=user%40kaneka4850%3A~%24+whoami;Bioinformata+Clinico+%7C+Analista+de+Variantes;Loading+stacks...+Python+%7C+GATK+%7C+VEP+%7C+FastAPI;Ready+for+deploy+%E2%9C%94" alt="Typing SVG" />
-
-<br><br>
-
-[![Gmail](https://img.shields.io/badge/-kaneka4850@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:kaneka4850@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/cleberaugustobioinfo)
-[![Discord](https://img.shields.io/badge/-Kaneka_ofc-000000?style=for-the-badge&logo=discord&logoColor=00BFFF)](https://discord.com/users/443894774156623884)
-[![GitHub](https://img.shields.io/badge/-Kaneka4850-000000?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Kaneka4850)
-
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=Kaneka4850&style=for-the-badge&color=000000&label=VISITAS)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![Gmail](https://img.shields.io/badge/Gmail-0B1A2B?style=flat-square&logo=gmail&logoColor=00BFFF)](mailto:kaneka4850@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1A2B?style=flat-square&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/cleberaugustobioinfo)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1A2B?style=flat-square&logo=github&logoColor=00BFFF)](https://github.com/Kaneka4850)
+[![Discord](https://img.shields.io/badge/Discord-0B1A2B?style=flat-square&logo=discord&logoColor=00BFFF)](https://discord.com/users/443894774156623884)
 
 </div>
 
 ---
 
-## `$ whoami`
+## `$ cat sobre.json`  <sub>自己紹介 · jikoshōkai</sub>
 
-```bash
-user@kaneka4850:~$ cat profile.json
+```json
 {
-  "role"     : "Bioinformata Clinico | Analista de Variantes Geneticas",
-  "stack"    : ["Python", "Bash", "Snakemake", "SQL"],
-  "biotools" : ["GATK", "VEP", "BWA", "Samtools", "Bedtools", "IGV"],
-  "infra"    : ["AWS", "Docker", "Linux (Ubuntu/Debian)"],
-  "foco"     : [
-      "Analise de variantes somaticas, germinativas e estruturais",
-      "Classificacao ACMG (germinativas) e VICC (somaticas)",
-      "Arquitetura de pipelines NGS de alto desempenho",
-      "Engenharia de dados genomicos com integracao de IA"
+  "nome": "Cleber Augusto",
+  "cargo": "Bioinformata Clínico | Analista de Variantes Genéticas",
+  "foco": [
+    "Análise de variantes somáticas, germinativas e estruturais",
+    "Classificação ACMG (germinativas) e VICC (somáticas)",
+    "Desenvolvimento de pipelines NGS em Python, Bash e Snakemake",
+    "Engenharia de dados genômicos com integração de IA"
   ],
-  "formação: Bacharel em biomedicina - UNIP (2024)",
-  "formacao" : "Bioinformatica Aplicada a Genomica Medica — Einstein (2026)",
-  "fun_fact" : "Amo animes · Levemente viciado em energetico ⚡"
+  "formacao": [
+    "Pós-graduação em Bioinformática Aplicada à Genômica Médica, Einstein (2026)",
+    "Bacharelado em Biomedicina, UNIP (2025)"
+  ],
+  "fun_fact": "アニメ (anime) e energético em quantidade questionável"
 }
-user@kaneka4850:~$ _
 ```
 
 ---
 
-## `$ ls stack/`
-
-<div align="center">
-
-**Linguagens & Ferramantas**
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![Snakemake](https://img.shields.io/badge/Snakemake-000000?style=for-the-badge&logoColor=00BFFF)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4479A1)
-
-**Infra**
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-
-**Bioinformatics Tools**
-
-![GATK](https://img.shields.io/badge/GATK-000000?style=for-the-badge&logoColor=00BFFF)
-![BWA](https://img.shields.io/badge/BWA-000000?style=for-the-badge&logoColor=00BFFF)
-![VEP](https://img.shields.io/badge/VEP-000000?style=for-the-badge&logoColor=00BFFF)
-![Samtools](https://img.shields.io/badge/Samtools-000000?style=for-the-badge&logoColor=00BFFF)
-![Bedtools](https://img.shields.io/badge/Bedtools-000000?style=for-the-badge&logoColor=00BFFF)
-![IGV](https://img.shields.io/badge/IGV-000000?style=for-the-badge&logoColor=00BFFF)
-![VCF](https://img.shields.io/badge/VCF-000000?style=for-the-badge&logoColor=00BFFF)
-![BAM](https://img.shields.io/badge/BAM-000000?style=for-the-badge&logoColor=00BFFF)
-![FASTQ](https://img.shields.io/badge/FASTQ-000000?style=for-the-badge&logoColor=00BFFF)
-![gnomAD](https://img.shields.io/badge/gnomAD-000000?style=for-the-badge&logoColor=00BFFF)
-![1000G](https://img.shields.io/badge/1000%20Genomes-000000?style=for-the-badge&logoColor=00BFFF)
-
-</div>
-
----
-
-## `$ cat experience.log`
-
-| Período | Cargo | Empresa | Destaque |
-|---|---|---|---|
-| Mar 2026 – Presente | Desenvolvedor Principal | **Tiro Legal** | Pipeline Python + Gemini 2.5 Flash · +2.000 imagens clínicas processadas |
-| Fev 2025 – Mar 2026 | Assistente de Dados | **G16 Premium** | Automação Python · Dashboards · −15% tempo operacional |
-| Fev 2024 – Dez 2024 | Estagiário em Análises Clínicas | Laboratório de Ensino | +500 amostras · Bioquímica, Hematologia, Microbiologia |
-
----
-
-## `$ cat formacao.txt`
+## `$ ls stack/`  <sub>技術 · gijutsu</sub>
 
 ```bash
-user@kaneka4850:~$ cat formacao.txt
-    Pós-graduação Lato Sensu
-    Bioinformática Aplicada à Genômica Médica — Análise de Variantes Somáticas e Germinativas
-    Hospital Israelita Albert Einstein  ·  Conclusão: Fevereiro 2026
-
-    Bacharelado em Biomedicina
-    Universidade Paulista — UNIP  ·  Conclusão: Janeiro 2025
-    Foco: Genética, Citogenética e Análises Clínicas
-user@kaneka4850:~$ _
+linguagens/    Python  Bash  SQL  Snakemake
+bioinfo/       GATK  BWA  VEP  Samtools  Bedtools  IGV
+formatos/      FASTQ  BAM  VCF
+bases/         gnomAD  1000 Genomes
+infra/         Linux (Ubuntu/Debian)  Docker  AWS  Git
 ```
 
 ---
 
-## `$ ls projetos/`
+## `$ cat experience.log`  <sub>経歴 · keireki</sub>
+
+| Período | Cargo | Empresa | O que eu fiz |
+|---|---|---|---|
+| Mar 2026 - atual | Desenvolvedor Principal | **Tiro Legal** | Pipeline de extração de dados estruturados com Python, Pydantic e Gemini 2.5 Flash. Mais de 2.000 imagens clínicas processadas. |
+| Fev 2025 - Mar 2026 | Assistente de Dados | **G16 Premium** | Automação de rotinas em Python e construção de dashboards. Redução de 15% no tempo operacional. |
+| Fev 2024 - Dez 2024 | Estagiário em Análises Clínicas | Laboratório de Ensino | Mais de 500 amostras processadas em Bioquímica, Hematologia e Microbiologia. |
+
+---
+
+## `$ cat formacao.txt`  <sub>学歴 · gakureki</sub>
+
+```text
+Pós-graduação Lato Sensu
+Bioinformática Aplicada à Genômica Médica: Análise de Variantes Somáticas e Germinativas
+Hospital Israelita Albert Einstein  |  conclusão: fev 2026
+
+Bacharelado em Biomedicina
+Universidade Paulista (UNIP)  |  conclusão: jan 2025
+Foco: Genética, Citogenética e Análises Clínicas
+```
+
+---
+
+## `$ ls projetos/`  <sub>プロジェクト · purojekuto</sub>
 
 ### Analisador de Documentos Clínicos
-> Pipeline de extração de dados estruturados a partir de ~2.000 imagens de avaliações psicológicas usando Google Gemini API + Pydantic + Docker.
 
-[![Repo](https://img.shields.io/badge/Ver%20Repositório-000000?style=flat-square&logo=github&logoColor=00BFFF)](https://github.com/Kaneka4850/Analisador-de-documentos)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
-![Gemini](https://img.shields.io/badge/Gemini%20API-000000?style=flat-square&logo=google&logoColor=4285F4)
+Pipeline de extração de dados estruturados a partir de cerca de 2.000 imagens de avaliações psicológicas. Usa a API do Google Gemini para leitura, Pydantic para validar o esquema de saída e Docker para reprodutibilidade.
+
+`Python` `Pydantic` `Gemini API` `Docker`
+
+[Ver repositório](https://github.com/Kaneka4850/Analisador-de-documentos)
 
 ---
 
-## `$ ls -la certifications/`
+## `$ ls certificacoes/`  <sub>資格 · shikaku</sub>
 
 ```bash
-user@kaneka850:~$ ls -la certifications/
--rw-r--r--  1 cleber  staff   AWS_Cloud_Practitioner.cert
--rw-r--r--  1 cleber  staff   USP_Curso_Verao_Bioinformatica.cert
--rw-r--r--  1 cleber  staff   BP_Variantes_Cardio_Onco.cert
--rw-r--r--  1 cleber  staff   GOV_Analise_Dados_R.cert
--rw-r--r--  1 cleber  staff   Trissomia_Livre_Citogenetica.cert
-user@kaneka850:~$ _
+AWS_Cloud_Practitioner.cert
+USP_Curso_Verao_Bioinformatica.cert
+BP_Variantes_Cardio_Onco.cert
+GOV_Analise_Dados_R.cert
+Trissomia_Livre_Citogenetica.cert
 ```
 
 ---
 
-## `$ git log --stat`
+## `$ git log --stat`  <sub>活動 · katsudō</sub>
 
 <div align="center">
 
 <a href="https://github.com/Kaneka4850">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaneka4850&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B8B8B&stroke=00BFFF" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Kaneka4850">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaneka4850&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Kaneka4850&theme=dark&hide_border=true&background=050A12&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&currStreakNum=CFE9FF&sideNums=CFE9FF&dates=4A7FA8" alt="GitHub streak"/>
 </a>
 
 </div>
@@ -154,13 +109,13 @@ user@kaneka850:~$ _
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=90&section=footer" width="100%"/>
+```text
+# 継続は力なり
+# keizoku wa chikara nari  (persistência é poder)
 
-`# "A genomica so faz sentido quando o codigo funciona tao bem quanto o sequenciador."`
-
-`user@kaneka4850:~$ exit`
-`logout`
-`Connection to kaneka4850 closed.`
+cleber@kaneka4850:~$ exit
+logout
+Connection to kaneka4850 closed.
+```
 
 </div>
-

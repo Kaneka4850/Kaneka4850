@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="40" viewBox="0 0 840 40">
+  <defs>
+    <linearGradient id="fadeL" x1="0" x2="1">
+      <stop offset="0" stop-color="#C1121F" stop-opacity="0"/>
+      <stop offset="1" stop-color="#C1121F" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" x2="1">
+      <stop offset="0" stop-color="#C1121F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#C1121F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="13" width="350" height="2" fill="url(#fadeL)"/>
+  <rect x="450" y="13" width="350" height="2" fill="url(#fadeR)"/>
+  <!-- gotas escorrendo da linha -->
+  <path d="M300 15 q2 6 0 9 q-2 -3 0 -9z" fill="#8B0000"/>
+  <path d="M352 15 q2 10 0 14 q-2 -4 0 -14z" fill="#C1121F"/>
+  <path d="M488 15 q2 12 0 17 q-2 -5 0 -17z" fill="#C1121F"/>
+  <path d="M540 15 q2 6 0 9 q-2 -3 0 -9z" fill="#8B0000"/>
+  <!-- losango central -->
+  <rect x="410" y="4" width="20" height="20" transform="rotate(45 420 14)" fill="none" stroke="#C1121F" stroke-width="2"/>
+  <rect x="415" y="9" width="10" height="10" transform="rotate(45 420 14)" fill="#C1121F"/>
+</svg>
